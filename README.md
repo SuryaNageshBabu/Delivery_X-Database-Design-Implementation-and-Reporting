@@ -32,8 +32,8 @@ Inorder to have a stuctured approach to the design process, I have adapted *Kimb
   Different stakeholders involved directly and indirectly: Head of Operations, Customers, Store Operations manager, Operation associates, Delivery riders & Customer service.   
 * **Declare the grain**
 
-  Having concluded on the key stakeholders, based on the requisites from the problem statement I beleive the grain of the data should be the different type of customer 
-  complaints at the store level and the timeline of theie timeline.
+  Functionality requirenments: Having concluded on the key stakeholders, based on the requisites from the problem statement I beleive the grain of the data should be the 
+  different type of customer complaints at the store level and their timeline
 
   The company's database (a flat file containing a table with all the attributes relevant to the store, customer and customer complaints) [here](www.comingsoon.com). I have 
   used this as my primary data source and I have further normalized this data to create a data model for better analysis.
