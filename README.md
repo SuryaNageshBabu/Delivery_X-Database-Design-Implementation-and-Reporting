@@ -21,10 +21,23 @@ The company's database contains extensive data on order histories, refunds, type
 
 Inorder to have a stuctured approach to the design process, I have adapted *Kimball's 4 step process to design the data models*.
 
-* Understanding the bussiness process
-* Declare the grain
-* Identifying the dimensions
-* Identifying the facts
+* **Understanding the business process & requirenments gathering**
+
+  Delivery_X is a quick delivery service which delivers groceries in relatively smaller delivery windows in comparison to conventional delivery services. It is currently 
+  offers its services in 2 different cities across Germany and both the cities have a Delivery_X store each. The company delivers groceries to its customers who place orders   through Delivery_X's mobile application.
+
+  Considering the nature of this service it can be understood that the delivery time, customer satisfaction and product quality are a few aspects which would be core to its 
+  value proposition to the customers.
+   
+  
+
+
+
+
+  
+* **Declare the grain**
+* **Identifying the dimensions**
+* **Identifying the facts**
 
 
 
