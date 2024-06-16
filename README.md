@@ -19,9 +19,12 @@ The company's database contains extensive data on order histories, refunds, type
 
 ## 1. Database design
 
-Inorder to have a stuctured approach to the design process, I have adapted *Kimball's 4 step process to design the data models*
+Inorder to have a stuctured approach to the design process, I have adapted *Kimball's 4 step process to design the data models*.
 
-* 
+* Understanding the bussiness process
+* Declare the grain
+* Identifying the dimensions
+* Identifying the facts
 
 
 
