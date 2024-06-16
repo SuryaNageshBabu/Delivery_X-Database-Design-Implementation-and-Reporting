@@ -38,6 +38,10 @@ Inorder to have a stuctured approach to the design process, I have adapted *Kimb
   The company's database (a flat file containing a table with all the attributes relevant to the store, customer and customer complaints) [here](www.comingsoon.com). I have 
   used this as my primary data source and I have further normalized this data to create a data model for better analysis.
 
+
+  ![Delivery_X ERD diagram](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/Delivery_X%20ERD.png)
+  
+
 * **Identifying the dimensions**
 
   After having understood the key business processes at Delivery_X and the requirenments of this project I have decided the key entities to be customer complaints, customers,
