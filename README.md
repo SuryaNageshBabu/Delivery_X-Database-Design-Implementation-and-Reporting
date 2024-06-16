@@ -12,5 +12,7 @@ A complete end to end project involving design, implementation of a database usi
 
 Delivery_X is a quick grocery delivery service startup with stores across 2 different cities in Germany, it is currently experiencing significant growth and facing customer service challenges, including order processing delays, delivery issues, product quality issues and as a result there is an increase in customer complaints & refunds made on the orders. Negative reviews are rising which could harm the startup's growth.
 
-The company's database contains extensive data on order histories, refunds, type of complaints etc. And the Head of Operations at Delivery_X wants to use this data to analyse the performance of the stores (for the period of summer 2022 between April - September) and implement solutions to improve customer satisfaction.
+The company's database contains extensive data on order histories, refunds, type of complaints etc. And the Head of Operations at Delivery_X wants to use this data to analyse the performance of the stores (for the period of summer 2022 between April - September) and implement solutions to improve customer satisfaction. Here below I have attached a business knowledge document containing information on all the key metrics and performance indicators used in the project.
+
+
 
