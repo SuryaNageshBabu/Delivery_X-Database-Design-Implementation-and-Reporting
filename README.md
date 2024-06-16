@@ -29,7 +29,7 @@ Inorder to have a stuctured approach to the design process, I have adapted *Kimb
   Considering the nature of the service and based on my previous experience I assume that the delivery, customer satisfaction and store operations to maintain product 
   quality are a few aspects which would be core to its value proposition to the customers.
 
-  Different stakeholders involved directly and indirectly: Head of Operations, Customers, Store Operations manager, Operation associates, Delivery riders Customer service  
+  Different stakeholders involved directly and indirectly: Head of Operations, Customers, Store Operations manager, Operation associates, Delivery riders & Customer service.  
 
    
   
