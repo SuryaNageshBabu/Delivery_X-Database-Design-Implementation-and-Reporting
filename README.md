@@ -26,8 +26,11 @@ Inorder to have a stuctured approach to the design process, I have adapted *Kimb
   Delivery_X is a quick delivery service which delivers groceries in relatively smaller delivery windows in comparison to conventional delivery services. It is currently 
   offers its services in 2 different cities across Germany and both the cities have a Delivery_X store each. The company delivers groceries to its customers who place orders   through Delivery_X's mobile application.
 
-  Considering the nature of this service it can be understood that the delivery time, customer satisfaction and product quality are a few aspects which would be core to its 
-  value proposition to the customers.
+  Considering the nature of the service and based on my previous experience I assume that the delivery, customer satisfaction and store operations to maintain product 
+  quality are a few aspects which would be core to its value proposition to the customers.
+
+  Different stakeholders involved directly and indirectly: Head of Operations, Customers, Store Operations manager, Operation associates, Delivery riders Customer service  
+
    
   
 
