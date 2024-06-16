@@ -39,6 +39,11 @@ Inorder to have a stuctured approach to the design process, I have adapted *Kimb
   used this as my primary data source and I have further normalized this data to create a data model for better analysis.
 
 * **Identifying the dimensions**
+
+  After having understood the key business processes at Delivery_X and the requirenments of this project I have decided the key entities to be customer complaints, customers,
+  and the store. I will further include another entity 'date' but this will be in the final part when I will be working on the ad-hoc report which I beleive gives me another 
+  key dimension to analyse this problem statement. 
+
 * **Identifying the facts**
 
 
