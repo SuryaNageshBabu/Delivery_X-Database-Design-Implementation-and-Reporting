@@ -1,4 +1,4 @@
-# Q-commerce Database Design Implementation and Reporting
+# Delivery_X Database Design, Implementation and Reporting
 
 ![Delivery X logo](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/Delivery_X%20logo.png)
 
