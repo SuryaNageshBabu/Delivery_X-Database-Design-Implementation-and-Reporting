@@ -17,7 +17,7 @@ Delivery_X is a quick grocery delivery service startup with stores across 2 diff
 
 The company's database contains extensive data on order histories, refunds, type of complaints etc. And the Head of Operations at Delivery_X wants to use this data to analyse the performance of the stores (for the period of summer 2022 between April - September) and implement solutions to improve customer satisfaction. Here below I have attached a business knowledge document containing information on all the key metrics and performance indicators used in the project. 
 
-**Note**: Since Database design, implementation and reporting are the primary focus of this project, there will not be any emphasis on data cleaning, however all the errors and inconsistencies were treated using SQL and Microsoft Excel prior to working with this data).
+(**Note**: Since Database design, implementation and reporting are the primary focus of this project, there will not be any emphasis on data cleaning, however all the errors and inconsistencies were treated using SQL and Microsoft Excel prior to working with this data).
 
 ## 1. Database design
 
