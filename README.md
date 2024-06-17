@@ -46,11 +46,30 @@ Inorder to have a stuctured approach to the design process, I have adapted *Kimb
 
   After having understood the key business processes at Delivery_X and the requirenments of this project I have decided the key entities to be customer complaints, customers,
   and the store. I will further include another entity 'date' but this will be in the final part when I will be working on the ad-hoc report which I beleive gives me another 
-  key dimension to analyse this problem statement. 
+  key dimension to analyse this problem statement.
 
+  
+  Dimension 1 : complaints
+  
+  In order to address the magnitude of effect of certain types of complaint on customer satisfaction, I have included complaints as a seperate dimension and further have 
+  added another layer of category 'risk'.
+
+  Dimension 2 : store
+
+  With rapid growth it is quite common for startups like Delivery_X to have multiple stores within a city, therefore I have created a store dimension and have added 
+  another category 'store_x' which refers to the name of the particular store. This would help analyse the stores not just by the city but also within a particular city 
+  assuming a city might have more than one store. The source data had just the attribute of city for categorisation.
+
+  Dimension 3 : customers
+
+  Customers as a seperate dimension with all the customer related data.
+
+  
 * **Identifying the facts**
 
-
+  The fact/transaction table in this case will be focussed on the different granular aspects of customer complaints like the type of complaints, the store for which the 
+  particular complaint was raised, customer that complained, date on which the complaint was recorded, and the compensation amount paid as a refund for the particular 
+  complaint to the customer. I have removed a attributes from the original table and also added a few considering the reqirenments.   
 
 
 
