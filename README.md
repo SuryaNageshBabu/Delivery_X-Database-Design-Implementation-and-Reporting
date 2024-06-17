@@ -120,3 +120,7 @@ This is a key insight which should also be included in the dashboard. It gives a
 ***Providing insights on how swiftly the high priority complaints were resolved might lead to implemention of measures which can improve the overall customer satisfaction***.
 
 ![Query 3](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/Query%203.png)
+
+***Compensated amount split by the category of complaints for all stores in Heidelberg***
+
+![Query 4](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/Query%204.png)
