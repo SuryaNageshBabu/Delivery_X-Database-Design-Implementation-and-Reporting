@@ -90,9 +90,10 @@ The tables are further normalized into a Star schema. Here above I have aligned 
 
 ![Migrating the data](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/Migrating%20the%20data%20into%20the%20tables_02.png)
 
-* **Enforcing data consistency with constraints**
+* **Enforcing data consistency with Attribute, Key & Referential constraints**
 
 ![Enforcing data consistency](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/Enforcing%20data%20consistency_01.png)
 
 ![Enforcing data consistency](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/Enforcing%20data%20consistency_02.png)
 
+![Enforcing data consistency](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/Enforcing%20data%20consistency_03.png)
