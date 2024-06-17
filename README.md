@@ -149,7 +149,7 @@ This dashboard was designed to derive numerous different metrics based on the cu
 
 A detailed know-how on all the metrics and performace indicators in the dashboard is included in the [business knowledge document](www.comingsoon.com). 
 
-Detailed description of all the different aspects of transformations & analysis performed using power query and the DAX functions are included here [Q-Commerce-service-Delivery_X-performance-dashboard](https://github.com/SuryaNageshBabu/Q-Commerce-service-Delivery_X-performance-dashboard/blob/main/README.md)
+Detailed description of all the different aspects of transformations & analysis performed on Power BI using Power query & the DAX functions used are included here [Q-Commerce-service-Delivery_X-performance-dashboard](https://github.com/SuryaNageshBabu/Q-Commerce-service-Delivery_X-performance-dashboard/blob/main/README.md)
 
 
 ## Get in touch
