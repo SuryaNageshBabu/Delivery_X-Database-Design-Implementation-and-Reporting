@@ -117,4 +117,6 @@ Considering the pain points and the inputs provided by Delivery_X's head of oper
 
 This is a key insight which should also be included in the dashboard. It gives a clear picture on the most recurring type of complaint, if it is related to product quality which in turn might require changes in SOPs to imrove store operations or if it related to delivery, necessary measures can be put in place to address it. 
 
+* *Providing insights on how swiftly the high priority complaints were resolved might lead to implemention of measures which can improve the overall customer satisfaction*.
 
+![Query 3](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/Query%203.png)
