@@ -103,3 +103,8 @@ The tables are further normalized into a Star schema. Here above I have aligned 
 ![Drop unn columns](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/Drop%20unn%20columns.png)
 
 ![Defining the fact table](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/Defining%20the%20fact%20table.png)
+
+
+## 3. Exploratory analysis on SQL Server & addressing the pain points
+
+
