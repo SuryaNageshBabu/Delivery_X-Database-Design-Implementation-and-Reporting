@@ -144,3 +144,9 @@ Based on all the findings from the exploratory analysis and also based on the bu
 to get a detailed insight into the performance of both the stores. 
 
 ![Delivery_X Dashboard](https://github.com/SuryaNageshBabu/Q-Commerce-Database-Design-Implementation-and-Reporting/blob/main/Delivery_X%20Performance%20Dahboard%20.gif)
+
+This dashboard was designed to derive numerous different metrics based on the customer complaints. It gives a detailed overview on performance of the stores also on a store level for a few key metrics. Visuals and Metrics presented in the dashboard are based on conclusions derived from the problem statement & also considering the target user that will be using the dashboard, in this case it is the head of operations of Delivery_X. 
+
+A detailed know-how on all the metrics and performace indicators in the dashboard is included in the [business knowledge document](www.comingsoon.com). 
+
+Detailed description of all the different aspects of transformations & analysis performed using power query and the DAX functions are included here [Q-Commerce-service-Delivery_X-performance-dashboard](https://github.com/SuryaNageshBabu/Q-Commerce-service-Delivery_X-performance-dashboard/blob/main/README.md)
