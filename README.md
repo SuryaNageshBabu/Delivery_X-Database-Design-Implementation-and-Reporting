@@ -15,7 +15,7 @@ A complete end to end project involving design, implementation of a database usi
 
 Delivery_X is a quick grocery delivery service startup with stores across 2 different cities in Germany, it is currently experiencing significant growth and facing customer service challenges, including order processing delays, delivery issues, product quality issues and as a result there is an increase in customer complaints & refunds made on the orders. Negative reviews are rising which could harm the startup's growth.
 
-The company's database contains extensive data on order histories, refunds, type of complaints etc. And the Head of Operations at Delivery_X wants to use this data to analyse the performance of the stores (for the period of summer 2022 between April - September) and implement solutions to improve customer satisfaction. Here below I have attached a business knowledge document containing information on all the key metrics and performance indicators used in the project.
+The company's database contains extensive data on order histories, refunds, type of complaints etc. And the Head of Operations at Delivery_X wants to use this data to analyse the performance of the stores (for the period of summer 2022 between April - September) and implement solutions to improve customer satisfaction. Here below I have attached a business knowledge document containing information on all the key metrics and performance indicators used in the project. (Since Database design, implementation and reporting are the primary focus of this project, there will not be any emphasis on data cleaning, however all the errors and inconsistencies were treated using SQL and Microsoft Excel prior to working with this data).
 
 ## 1. Database design
 
@@ -106,5 +106,7 @@ The tables are further normalized into a Star schema. Here above I have aligned 
 
 
 ## 3. Exploratory analysis on SQL Server & addressing the pain points
+
+Considering the pain points and the inputs provided by Delivery_X's head of operations in terms of the requirenments, a preliminary exploratory analysis will be performed 
 
 
