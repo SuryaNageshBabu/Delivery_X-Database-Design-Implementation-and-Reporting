@@ -78,6 +78,8 @@ Following the conclusions from the previous steps, database and tables are creat
 
 ![Delivery_X database schema](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/Delivery_X%20database%20schema.png)
 
+The tables are further normalized into a Star schema. Here above I have aligned the tables according to the *Coolie layout methodology* in which the fact tables(tables containing the transactional data) are placed at the bottom and the lookup tables(dimension tables) are placed on the top for better visual cue, however the tables still follow Star schema.
+
 
 
 
