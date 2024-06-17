@@ -69,7 +69,16 @@ Inorder to have a stuctured approach to the design process, I have adapted *Kimb
 
   The fact/transaction table in this case will be focussed on the different granular aspects of customer complaints like the type of complaints, the store for which the 
   particular complaint was raised, customer that complained, date on which the complaint was recorded, and the compensation amount paid as a refund for the particular 
-  complaint to the customer. I have removed a attributes from the original table and also added a few considering the reqirenments.   
+  complaint to the customer. I have removed a attributes from the original table and also added a few considering the reqirenments.
+
+
+## Database implementation
+
+Following the conclusions from the previous steps, database and tables are created and the data will further be migrated into these tables from the source. Here below is a schematic representaion of the Delivery_X database.
+
+![Delivery_X database schema](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/Delivery_X%20database%20schema.png)
+
+
 
 
 
