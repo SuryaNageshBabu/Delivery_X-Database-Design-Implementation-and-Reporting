@@ -154,4 +154,4 @@ Detailed description of all the different aspects of transformations & analysis 
 
 ## Get in touch
 
-Feel free to share your feedback. You can reachouot to me through [Linkedin](https://www.linkedin.com/in/suryanageshbabu/)
+Feel free to share your feedback. You can reachout to me through [Linkedin](https://www.linkedin.com/in/suryanageshbabu/)
