@@ -107,7 +107,7 @@ The tables are further normalized into a Star schema. Here above I have aligned 
 ![Defining the fact table](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/Defining%20the%20fact%20table.png)
 
 
-## 3. Exploratory analysis on SQL Server & addressing the pain points
+## 3. Exploratory analysis & Asking the right questions
 
 Considering the pain points and the inputs provided by Delivery_X's head of operations in terms of the requirenments, a preliminary exploratory analysis will be performed addressing aspects aligned with the customer complaints. And the finding will further be reported alongside other key metrics on the dashboard.
 
@@ -124,3 +124,7 @@ This is a key insight which should also be included in the dashboard. It gives a
 ***Compensated amount split by the category of complaints for all stores in Heidelberg***
 
 ![Query 4](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/Query%204.png)
+
+This gives a gives a better insight on the most prominant category of complaint for all the stores in Heidelberg. It is a key insight to analyse specifically for this problem statement because there can be a lot of factors which could be responsible for a certain type of complaint to be recurring in a particular store. For Ex: In this case the city of Heidelberg has only one store 'Hei_X' and from the results above it is observed that Delayed orders are amongst the two prominent type of complaints for this store, this can be because of the local of the store Hei_X itself which is not probably located centrally to make deliveries out of the store easier or it could also be due to an issue with the delivery riders working at this store. 
+
+This opens up a whole new dimension for analysing the scenario further.
