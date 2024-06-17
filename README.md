@@ -133,6 +133,6 @@ This gives a gives a better insight on the most prominant category of complaint 
 
 Here, we can infer that less than 50% of high priority customer complaints were resolved in time for the stores in Darmstadt. This can be a key insight to the head of operations which can further be flagged to the customer service team that is in charge for the particular store 'Dar_X' in Darmstadt.
 
-**(Note: Not all the queries used for exploring the data are presented here, however I have included detailed list of queries used for exploration in a seperate file in the repository for reference)**
+**(Note: Not all the queries used for exploring the data are presented here, however I have included detailed list of queries used for exploration as a part of the SQL project series for reference [here](www.comingsoon.com))**
 
 Based on the findings above and based on the requisites of the problem statement, I have included other metrics and indicators in the Power BI dashboard (presented below).
