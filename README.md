@@ -142,3 +142,5 @@ Based on the findings above and based on the requisites of the problem statement
 
 Based on all the findings from the exploratory analysis and also based on the business knowledge I had honed through my previous experience in this sector, I have drafted and designed a dashboard addressing the key granular aspects of customer complaints. I beleive this will provide the end user, head of operations of Delivery_X in this case
 to get a detailed insight into the performance of both the stores. 
+
+![Delivery_X Dashboard](https://github.com/SuryaNageshBabu/Q-Commerce-Database-Design-Implementation-and-Reporting/blob/main/Delivery_X%20Performance%20Dahboard%20.gif)
