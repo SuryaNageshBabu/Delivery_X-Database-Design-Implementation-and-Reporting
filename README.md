@@ -130,3 +130,9 @@ This gives a gives a better insight on the most prominant category of complaint 
 ***High priority complaints resolved in time vs those not resolved in time for the stores in Darmstadt***
 
 ![Query 5](https://github.com/SuryaNageshBabu/Q-Commerce-Database-Design-Implementation-and-Reporting/blob/main/Query%205.png)
+
+Here, we can infer that less than 50% of high priority customer complaints were resolved in time for the stores in Darmstadt. This can be a key insight to the head of operations which can further be flagged to the customer service team that is in charge for the particular store 'Dar_X' in Darmstadt.
+
+**(Note: Not all the queries used for exploring the data are presented here, however I have included detailed list of queries used for exploration in a file in the repository for reference)**
+
+Based on the findings above and based on the requisites of the problem statement, I have included other metrics and indicators in the Power BI dashboard (presented below).
