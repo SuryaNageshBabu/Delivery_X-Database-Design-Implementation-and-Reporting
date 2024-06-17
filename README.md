@@ -82,10 +82,12 @@ The tables are further normalized into a Star schema. Here above I have aligned 
 
 * **Creating a database Delivery_X and the tables on the SQL Server RDBMS**
 
-  ![Creating a database Delivery_X and the tables](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/Creating%20database%20and%20tables.png)
+![Creating a database Delivery_X and the tables](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/Creating%20database%20and%20tables.png)
 
+* **Migrating data into the newly created tables**
 
-
+![Migrating the data](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/Migrating%20the%20data%20into%20the%20tables.png)
+  
 
 
 
