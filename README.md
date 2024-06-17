@@ -136,3 +136,9 @@ Here, we can infer that less than 50% of high priority customer complaints were 
 **(Note: Not all the queries used for exploring the data are presented here, however I have included detailed list of queries used for exploration as a part of the SQL project series for reference [here](www.comingsoon.com))**
 
 Based on the findings above and based on the requisites of the problem statement, I have included other metrics and indicators in the Power BI dashboard (presented below).
+
+
+## 4. Reporting/Ad-hoc dashboard design using Power BI
+
+Based on all the findings from the exploratory analysis and also based on the business knowledge I had honed through my previous experience in this sector, I have drafted and designed a dashboard addressing the key granular aspects of customer complaints. I beleive this will provide the end user, head of operations of Delivery_X in this case
+to get a detailed insight into the performance of both the stores. 
