@@ -109,6 +109,10 @@ The tables are further normalized into a Star schema. Here above I have aligned 
 
 ## 3. Exploratory analysis on SQL Server & addressing the pain points
 
-Considering the pain points and the inputs provided by Delivery_X's head of operations in terms of the requirenments, a preliminary exploratory analysis will be performed 
+Considering the pain points and the inputs provided by Delivery_X's head of operations in terms of the requirenments, a preliminary exploratory analysis will be performed addressing aspects aligned with the customer complaints. And the finding will further be reported alongside other key metrics on the dashboard.
+
+*Which type of complaint has been raised by the customers more often and which has costed the company more ?*
+
+![Query 1](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/Query%201.png)
 
 
