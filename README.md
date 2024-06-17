@@ -72,7 +72,7 @@ Inorder to have a stuctured approach to the design process, I have adapted *Kimb
   complaint to the customer. I have removed a attributes from the original table and also added a few considering the reqirenments.
 
 
-## Database implementation
+## 2. Database implementation
 
 Following the conclusions from the previous steps, database and tables are created and the data will further be migrated into these tables from the source. Here below is a schematic representaion of the Delivery_X database.
 
