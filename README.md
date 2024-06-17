@@ -125,6 +125,8 @@ This is a key insight which should also be included in the dashboard. It gives a
 
 ![Query 4](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/Query%204.png)
 
-This gives a gives a better insight on the most prominant category of complaint for all the stores in Heidelberg. It is a key insight to analyse specifically for this problem statement because there can be a lot of factors which could be responsible for a certain type of complaint to be recurring in a particular store. For Ex: In this case the city of Heidelberg has only one store 'Hei_X' and from the results above it is observed that Delayed orders are amongst the two prominent type of complaints for this store, this can be because of the local of the store Hei_X itself which is not probably located centrally to make deliveries out of the store easier or it could also be due to an issue with the delivery riders working at this store. 
+This gives a gives a better insight on the most prominant category of complaint for all the stores in Heidelberg. It is a key insight to analyse specifically for this problem statement because there can be a lot of factors which could be responsible for a certain type of complaint to be recurring in a particular store. For Ex: In this case the city of Heidelberg has only one store 'Hei_X' and from the results above it is observed that Delayed orders are amongst the two prominent type of complaints for this store, this can be because of the local of the store Hei_X itself which is not probably located centrally to make deliveries out of the store easier or it could also be due to an issue with the delivery riders working at this store. This opens up a whole new dimension for analysing the scenario further.
 
-This opens up a whole new dimension for analysing the scenario further.
+***High priority complaints resolved in time vs those not resolved in time for the stores in Darmstadt***
+
+![Query 5](https://github.com/SuryaNageshBabu/Q-Commerce-Database-Design-Implementation-and-Reporting/blob/main/Query%205.png)
