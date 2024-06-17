@@ -94,5 +94,5 @@ The tables are further normalized into a Star schema. Here above I have aligned 
 
 ![Enforcing data consistency](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/Enforcing%20data%20consistency_01.png)
 
-
+![Enforcing data consistency](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/Enforcing%20data%20consistency_02.png)
 
