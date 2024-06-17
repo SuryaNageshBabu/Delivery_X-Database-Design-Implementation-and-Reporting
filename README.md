@@ -13,7 +13,7 @@ A complete end to end project involving design, implementation of a database usi
 
 ## Overview
 
-Delivery_X is a quick grocery delivery service startup with stores across 2 different cities in Germany, it is currently experiencing significant growth and facing customer service challenges, including order processing delays, delivery issues, product quality issues and as a result there is an increase in customer complaints & refunds made on the orders. Negative reviews are rising which could harm the startup's growth.
+Delivery_X is a Q-commerce grocery delivery service startup with stores across 2 different cities in Germany, it is currently experiencing significant growth and facing customer service challenges, including order processing delays, delivery issues, product quality issues and as a result there is an increase in customer complaints & refunds made on the orders. Negative reviews are rising which could harm the startup's growth.
 
 The company's database contains extensive data on order histories, refunds, type of complaints etc. And the Head of Operations at Delivery_X wants to use this data to analyse the performance of the stores (for the period of summer 2022 between April - September) and implement solutions to improve customer satisfaction. Here below I have attached a business knowledge document containing information on all the key metrics and performance indicators used in the project. 
 
@@ -116,7 +116,7 @@ Considering the pain points and the inputs provided by Delivery_X's head of oper
   
 ![Query 1](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/Query%201.png)
 
-This is a key insight which should also be included in the dashboard. It gives a clear picture on the most recurring type of complaint, if it is related to product quality which in turn might require changes in SOPs to imrove store operations or if it related to delivery, necessary measures can be put in place to address it. 
+This is a key insight which should also be included in the dashboard. It gives a clear picture on the most recurring type of complaint, if it is related to product quality which in turn might require changes in SOPs to improve store operations or if it related to delivery, necessary measures can be put in place to address it. 
 
 ***Providing insights on how swiftly the high priority complaints were resolved might lead to implemention of measures which can improve the overall customer satisfaction***.
 
