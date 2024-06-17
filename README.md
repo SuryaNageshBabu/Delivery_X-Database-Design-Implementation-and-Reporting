@@ -87,8 +87,8 @@ The tables are further normalized into a Star schema. Here above I have aligned 
 * **Migrating data into the newly created tables**
 
 ![Migrating the data](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/Migrating%20the%20data%20into%20the%20tables.png)
-  
 
+![Migrating the data](https://github.com/SuryaNageshBabu/Delivery_X-Database-Design-Implementation-and-Reporting/blob/main/Migrating%20the%20data%20into%20the%20tables_02.png)
 
 
 
